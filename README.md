@@ -1,5 +1,7 @@
-# Clinical-ICD10-Code-Prediction
+# Codificación-Automática-CIE10
+
 Este repositorio incluye un API para codificación automática de códigos CIE-10 a partir de texto libre en español. El modelo es un transformer basado en BERT. Los embedding se basan en el siguiente paper: https://arxiv.org/abs/1904.03323 .
+
 El código se basa en el de AsianZeus: https://github.com/AsianZeus/Clinical-ICD10-Code-Prediction
 ---
 
